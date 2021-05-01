@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		35219554263DACE500E1E4C5 /* Project practice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Project practice.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		35219554263DACE500E1E4C5 /* Weekday Finder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Weekday Finder.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		35219557263DACE500E1E4C5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		35219559263DACE500E1E4C5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		3521955B263DACE500E1E4C5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		35219555263DACE500E1E4C5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				35219554263DACE500E1E4C5 /* Project practice.app */,
+				35219554263DACE500E1E4C5 /* Weekday Finder.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		35219553263DACE500E1E4C5 /* Project practice */ = {
+		35219553263DACE500E1E4C5 /* Weekday Finder */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 35219568263DACE700E1E4C5 /* Build configuration list for PBXNativeTarget "Project practice" */;
+			buildConfigurationList = 35219568263DACE700E1E4C5 /* Build configuration list for PBXNativeTarget "Weekday Finder" */;
 			buildPhases = (
 				35219550263DACE500E1E4C5 /* Sources */,
 				35219551263DACE500E1E4C5 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = "Project practice";
+			name = "Weekday Finder";
 			productName = "Project practice";
-			productReference = 35219554263DACE500E1E4C5 /* Project practice.app */;
+			productReference = 35219554263DACE500E1E4C5 /* Weekday Finder.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -101,7 +101,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 3521954F263DACE500E1E4C5 /* Build configuration list for PBXProject "Project practice" */;
+			buildConfigurationList = 3521954F263DACE500E1E4C5 /* Build configuration list for PBXProject "Weekday Finder" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -114,7 +114,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				35219553263DACE500E1E4C5 /* Project practice */,
+				35219553263DACE500E1E4C5 /* Weekday Finder */,
 			);
 		};
 /* End PBXProject section */
@@ -322,7 +322,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3521954F263DACE500E1E4C5 /* Build configuration list for PBXProject "Project practice" */ = {
+		3521954F263DACE500E1E4C5 /* Build configuration list for PBXProject "Weekday Finder" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				35219566263DACE700E1E4C5 /* Debug */,
@@ -331,7 +331,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		35219568263DACE700E1E4C5 /* Build configuration list for PBXNativeTarget "Project practice" */ = {
+		35219568263DACE700E1E4C5 /* Build configuration list for PBXNativeTarget "Weekday Finder" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				35219569263DACE700E1E4C5 /* Debug */,
